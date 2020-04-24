@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Podo OS Project
 
-You can use the [editor on GitHub](https://github.com/podo-os/podo-os.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+음성인식으로 최신 기술들을 제어할 수 있도록 많은 기본 서비스들을 제공합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+본 프로젝트는 다음의 사용자들을 위해 제작되고 있습니다.
 
-### Markdown
+1. 음성인식으로 모든 시스템을 관리하고픈 **최종 사용자**
+2. 음성인식으로 동작할 프로그램을 만들 **사업자 및 개발자**
+3. 딥러닝 등 기술들을 이용해 실제 로봇을 제어하는 **로보틱스 개발자**
+4. 음성인식으로 제어할 로봇을 제작하는 **로봇 공학자**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Supported Features
 
-```markdown
-Syntax highlighted code block
+본 프로젝트는 다음의 기능들을 제공할 예정입니다.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/podo-os/podo-os.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. 전체 시스템을 관리하는 [메타 운영체제와 프로그래밍 언어](https://github.com/podo-os/podo-os)
+2. 로봇의 주변 상황 인지를 담당하는 [상황 인지 시스템]()
+3. 로봇의 이동과 동작을 담당하는 [행동 시스템]()
+4. 원격으로 시스템을 제어하는 [컨트롤러 앱]()
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+프로젝트에 문제가 생겼거나 개선이 필요한 경우, 부담없이 아래의 연락처로 연락 바랍니다.
+
+* `ho.kim at gnu.ac.kr`
